@@ -2,6 +2,7 @@
 
 Python AI skolenie
 
+## podtitulok
 
 ---python
 
