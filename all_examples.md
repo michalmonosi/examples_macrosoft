@@ -15,11 +15,12 @@ print(ages) # output the calculated ages
 ```
 
 ---------------------------------------------------------------------------
+```python
 import os
 
 API_KEY = os.getenv("OPENROUTER_API_KEY")
 print(API_KEY)
-
+'''
 ---------------------------------------------------------------------------
 
 #create an excel file with some user data
