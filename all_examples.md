@@ -1,5 +1,6 @@
+# priklady
 
-
+```python
 dobs = ["1990-05-24", "1985-12-15", "2000-07-30"]
         
 # function to calculate age from date of birth
@@ -11,7 +12,7 @@ def calculate_age(dob):
     return age
 ages = [calculate_age(dob) for dob in dobs]
 print(ages) # output the calculated ages
-
+```
 
 ---------------------------------------------------------------------------
 import os
