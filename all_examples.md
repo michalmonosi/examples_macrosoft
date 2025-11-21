@@ -14,6 +14,15 @@ ages = [calculate_age(dob) for dob in dobs]
 print(ages) # output the calculated ages
 ```
 
+## Funckia sum
+
+```python
+vals = [1, 2, 3]
+print(sum(vals))
+```
+
+Funkcia `sum` vypocita celkovu *sumu*.
+
 ---------------------------------------------------------------------------
 ```python
 import os
